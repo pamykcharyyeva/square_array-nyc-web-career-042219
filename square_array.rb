@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
+  puts (array**2)
 end
