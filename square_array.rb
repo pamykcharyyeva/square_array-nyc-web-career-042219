@@ -1,3 +1,4 @@
 def square_array(array)
-  puts (array**2)
+  square= []
+  p(array**2)
 end
